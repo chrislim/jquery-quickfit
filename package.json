@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/chunksnbits/jquery-quickfit/issues"
   },
+  "main": "jquery.quickfit.js",
   "homepage": "https://github.com/chunksnbits/jquery-quickfit#readme"
 }
